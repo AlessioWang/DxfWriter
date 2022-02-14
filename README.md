@@ -33,13 +33,13 @@ TODO:
 Init file save path:
 
 ```java
-String path="file save path";
+String path = "file save path";
 ```
 
 Operations:
 
 ```java
-DxfOP op=new DxfOP();
+DxfOP op = new DxfOP();
 
 (Your operations here)
 
