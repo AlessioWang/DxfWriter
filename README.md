@@ -33,17 +33,17 @@ TODO:
 Init file save path:
 
 ```java
-        String path="file save path";
+String path="file save path";
 ```
 
 Operations:
 
 ```java
-        DxfOP op=new DxfOP();
+DxfOP op=new DxfOP();
 
-        (Your operations here)
+(Your operations here)
 
-        op.save(path);
+op.save(path);
 ```
 
 You can find a **Demo** in the package *dxfWriter*.
