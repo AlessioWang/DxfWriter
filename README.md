@@ -39,7 +39,7 @@ Init file save path:
 Operations:
 
 ```java
-        op=new DxfOP();
+        DxfOP op=new DxfOP();
 
         (Your operations here)
 
